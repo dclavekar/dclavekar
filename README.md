@@ -27,7 +27,7 @@ Apart from learning technology, you can find me indulged in nature, dancing to t
 <a href="https://www.instagram.com/dclavekar/"><img height="30" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/insta.png"></a>&nbsp;&nbsp;
 
 
- ### Some stats:  
+ ### Stats  
  <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dclavekar&theme=algolia)](https://github.com/dclavekar/github-readme-stats)&nbsp;-->
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dclavekar&show_icons=true&theme=algolia&hide_border=true&&count_private=true&include_all_commits=true&bg_color=#656565" /><br>
 
