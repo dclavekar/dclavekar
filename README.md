@@ -2,14 +2,12 @@
 I am a Second year undergraduate from Pune Institute of Computer Technology pursuing Information technology Engineering. I am a full stack Web developer who is cultivating interest in Competetive programming. I look forward to use my skills and develop softwares that can solve or help in dealing with real-life problems.  
 Apart from learning technology, you can find me indulged in nature, dancing to the tunes of music, engulfed in some fictional world of books or narrating a story through my words.  
   
-  Some stats:  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dclavekar)](https://github.com/dclavekar/github-readme-stats)  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dclavekar&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&bg_color=#656565" /><br>
+ 
 # Tech Stack  
   
 ### Programming Languages
 
- <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=django&logoColor=white"> <img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=django&logoColor=white"><img src="https://img.shields.io/badge/Python-ffd340?style=for-the-badge&logo=python&logoColor=black"> <img src="https://img.shields.io/badge/Java-e11e21?style=for-the-badge&logo=java&logoColor=white">
+ <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=C&logoColor=white"> <img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=C++&logoColor=white"><img src="https://img.shields.io/badge/Python-ffd340?style=for-the-badge&logo=python&logoColor=black"> <img src="https://img.shields.io/badge/Java-e11e21?style=for-the-badge&logo=java&logoColor=white">
 
 ### Front End
 
@@ -23,12 +21,14 @@ Apart from learning technology, you can find me indulged in nature, dancing to t
 <img src="https://img.shields.io/badge/Heroku-000000?style=for-the-badge&logo=heroku&logoColor=white">  
   
 
-#Quick Links
+### Quick Links &nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/dclavekar/"><img height="30" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/linkedin.png"></a>&nbsp;&nbsp;
-</a>&nbsp;&nbsp;
+
 <a href="mailto:dclavekar@gmail.com"><img height="30" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/email.png"></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/dclavekar/"><img height="30" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/insta.png"></a>&nbsp;&nbsp;
 
 
-
+ ### Some stats:  
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dclavekar)](https://github.com/dclavekar/github-readme-stats)  
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dclavekar&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&bg_color=#656565" /><br>
 
