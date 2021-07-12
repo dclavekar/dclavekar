@@ -8,7 +8,7 @@ Learning something from each new day :star2:
   
 ### Programming Languages
 
- <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=C&logoColor=white"> <img src="https://img.shields.io/badge/C++-1E90FF?style=for-the-badge&logo=Cpp&logoColor=white"> <img src="https://img.shields.io/badge/Python-ffd340?style=for-the-badge&logo=python&logoColor=black"> <img src="https://img.shields.io/badge/Java-e11e21?style=for-the-badge&logo=java&logoColor=white">
+ <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=C&logoColor=white"> <img src="https://img.shields.io/badge/C++-1E90FF?style=for-the-badge&logo=Cpp&logoColor=white"> <img src="https://img.shields.io/badge/Python-ffd340?style=for-the-badge&logo=python&logoColor=black"> <img src="https://img.shields.io/badge/Java-e11e21?style=for-the-badge&logo=java&logoColor=white">  <img src="https://img.shields.io/badge/SQL-4682B4?style=for-the-badge&logo=SQL&logoColor=white">
 
 ### Front End
 
