@@ -7,7 +7,7 @@ Apart from learning technology, you can find me indulged in nature, dancing to t
   
 ### Programming Languages
 
- <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=C&logoColor=white"> <img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=C++&logoColor=white"><img src="https://img.shields.io/badge/Python-ffd340?style=for-the-badge&logo=python&logoColor=black"> <img src="https://img.shields.io/badge/Java-e11e21?style=for-the-badge&logo=java&logoColor=white">
+ <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=C&logoColor=white"> <img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=Cpp&logoColor=white"><img src="https://img.shields.io/badge/Python-ffd340?style=for-the-badge&logo=python&logoColor=black"> <img src="https://img.shields.io/badge/Java-e11e21?style=for-the-badge&logo=java&logoColor=white">
 
 ### Front End
 
@@ -23,12 +23,11 @@ Apart from learning technology, you can find me indulged in nature, dancing to t
 
 ### Quick Links &nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/dclavekar/"><img height="30" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/linkedin.png"></a>&nbsp;&nbsp;
-
 <a href="mailto:dclavekar@gmail.com"><img height="30" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/email.png"></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/dclavekar/"><img height="30" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/insta.png"></a>&nbsp;&nbsp;
 
 
  ### Some stats:  
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dclavekar)](https://github.com/dclavekar/github-readme-stats)  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dclavekar&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&bg_color=#656565" /><br>
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dclavekar)](https://github.com/dclavekar/github-readme-stats)
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dclavekar&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&bg_color=#656565" /><br>
 
