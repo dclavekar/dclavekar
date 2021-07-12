@@ -28,6 +28,6 @@ Apart from learning technology, you can find me indulged in nature, dancing to t
 
 
  ### Some stats:  
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dclavekar)](https://github.com/dclavekar/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dclavekar)](https://github.com/dclavekar/github-readme-stats)&nbsp;
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dclavekar&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&bg_color=#656565" /><br>
 
