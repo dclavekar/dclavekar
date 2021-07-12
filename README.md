@@ -3,6 +3,7 @@ I am a Second year undergraduate from Pune Institute of Computer Technology purs
 Apart from learning technology, you can find me indulged in nature, dancing to the tunes of music, engulfed in some fictional world of books or narrating a story through my words.  
   
   Some stats:  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dclavekar)](https://github.com/dclavekar/github-readme-stats)  
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dclavekar&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&bg_color=#656565" />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dclavekar)](https://github.com/dclavekar/github-readme-stats)
+
 
