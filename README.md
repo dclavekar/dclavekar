@@ -7,7 +7,7 @@ Apart from learning technology, you can find me indulged in nature, dancing to t
   
 ### Programming Languages
 
- <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=C&logoColor=white"> <img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=Cpp&logoColor=white"><img src="https://img.shields.io/badge/Python-ffd340?style=for-the-badge&logo=python&logoColor=black"> <img src="https://img.shields.io/badge/Java-e11e21?style=for-the-badge&logo=java&logoColor=white">
+ <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=C&logoColor=white"> <img src="https://img.shields.io/badge/C++-1E90FF?style=for-the-badge&logo=Cpp&logoColor=white"><img src="https://img.shields.io/badge/Python-ffd340?style=for-the-badge&logo=python&logoColor=black"> <img src="https://img.shields.io/badge/Java-e11e21?style=for-the-badge&logo=java&logoColor=white">
 
 ### Front End
 
