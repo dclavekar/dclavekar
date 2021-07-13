@@ -4,9 +4,11 @@ Apart from learning technology, you can find me indulged in nature, dancing to t
 Learning something from each new day :star2:
   
 ### Quick Links &nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/dclavekar/"><img height="30" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/linkedin.png"></a>&nbsp;&nbsp;
-<a href="mailto:dclavekar@gmail.com"><img height="30" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/email.png"></a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/dclavekar/"><img height="30" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/insta.png"></a>&nbsp;&nbsp; 
+
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/dclavekar) 
+[<img src="https://img.shields.io/badge/-dclavekar-c14438?style=for-the-badge&logo=Gmail&logoColor=white"/>](mailto:dclavekar@gmail.com) 
+[<img src="https://img.shields.io/badge/-dclavekar-%23fca326?style=for-the-badge&logo=Instagram&logoColor=white"/>](https://www.instagram.com/dclavekar/) 
+ 
 # Tech Stack  
   
 ### Programming Languages
