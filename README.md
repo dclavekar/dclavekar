@@ -17,12 +17,9 @@ Learning something from each new day :star2:
 
  <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=C&logoColor=white"> <img src="https://img.shields.io/badge/C++-1E90FF?style=for-the-badge&logo=Cpp&logoColor=white"> <img src="https://img.shields.io/badge/Python-ffd340?style=for-the-badge&logo=python&logoColor=black"> <img src="https://img.shields.io/badge/Java-e11e21?style=for-the-badge&logo=java&logoColor=white">  <img src="https://img.shields.io/badge/SQL-4682B4?style=for-the-badge&logo=SQL&logoColor=white">
 
-### Front End
+### Web Technologies
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img  src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img  src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img  src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"> <img  src="https://img.shields.io/badge/jQuery-4682B4?style=for-the-badge&logo=jQuery&logoColor=white">
-### Back End
-
- <img src="https://img.shields.io/badge/Django-103e2e?style=for-the-badge&logo=django&logoColor=white"> <img src="https://img.shields.io/badge/Java-e11e21?style=for-the-badge&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img  src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img  src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img  src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"> <img  src="https://img.shields.io/badge/jQuery-4682B4?style=for-the-badge&logo=jQuery&logoColor=white"> <img src="https://img.shields.io/badge/Django-103e2e?style=for-the-badge&logo=django&logoColor=white">
 
 ### Deployment Platforms
 
