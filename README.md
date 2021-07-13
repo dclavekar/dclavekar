@@ -3,7 +3,10 @@ I am a Second year undergraduate from Pune Institute of Computer Technology purs
 Apart from learning technology, you can find me indulged in nature, dancing to the tunes of music, engulfed in some fictional world of books or narrating a story through my words.  
 Learning something from each new day :star2:
   
- 
+### Quick Links &nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/dclavekar/"><img height="30" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/linkedin.png"></a>&nbsp;&nbsp;
+<a href="mailto:dclavekar@gmail.com"><img height="30" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/email.png"></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/dclavekar/"><img height="30" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/insta.png"></a>&nbsp;&nbsp; 
 # Tech Stack  
   
 ### Programming Languages
@@ -26,10 +29,7 @@ Learning something from each new day :star2:
 <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/vscode-1E90FF?style=for-the-badge&logo=vscode&logoColor=white"> <img src="https://img.shields.io/badge/Eclipse-000000?style=for-the-badge&logo=eclipse&logoColor=white"> <img src="https://img.shields.io/badge/PyCharm-103e2e?style=for-the-badge&logo=pycharm&logoColor=white"> 
   
 
-### Quick Links &nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/dclavekar/"><img height="30" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/linkedin.png"></a>&nbsp;&nbsp;
-<a href="mailto:dclavekar@gmail.com"><img height="30" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/email.png"></a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/dclavekar/"><img height="30" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/insta.png"></a>&nbsp;&nbsp;
+
 
 
  ### Stats  
