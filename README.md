@@ -4,13 +4,13 @@
 I am a Second year undergraduate from Pune Institute of Computer Technology pursuing Information technology Engineering. I am a full stack Web developer who is cultivating interest in Competetive programming. I look forward to use my skills and develop softwares that can solve or help in dealing with real-life problems.  
 Apart from learning technology, you can find me indulged in nature, dancing to the tunes of music, engulfed in some fictional world of books or narrating a story through my words.<br>
 Learning something from each new day :star2:
-<div align="center">
-    <h1>Quick Links</h1> &nbsp;&nbsp;
+
+### Quick Links&nbsp;&nbsp;
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/dclavekar) 
 [<img src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white"/>](mailto:dclavekar@gmail.com) 
 [<img src="https://img.shields.io/badge/-Instagram-C13584?style=for-the-badge&logo=Instagram&logoColor=white"/>](https://www.instagram.com/dclavekar/) 
-</div>
+
 
 # Tech Stack  
   
