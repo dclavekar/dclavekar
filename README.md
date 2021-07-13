@@ -20,6 +20,10 @@ Learning something from each new day :star2:
 ### Deployment Platforms
 
 <img src="https://img.shields.io/badge/Heroku-000000?style=for-the-badge&logo=heroku&logoColor=white">  
+
+### Other Tools
+
+<img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/VSCode-230080ff?style=for-the-badge&logo=vscode&logoColor=white"> <img src="https://img.shields.io/badge/Eclipse-000000?style=for-the-badge&logo=eclipse&logoColor=white"> <img src="https://img.shields.io/badge/PyCharm-233c873a?style=for-the-badge&logo=pycharm&logoColor=white"> 
   
 
 ### Quick Links &nbsp;&nbsp;
