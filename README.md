@@ -23,7 +23,7 @@ Learning something from each new day :star2:
 
 ### Other Tools
 
-<img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/VSCode-1E90FF?style=for-the-badge&logo=vscode&logoColor=white"> <img src="https://img.shields.io/badge/Eclipse-000000?style=for-the-badge&logo=eclipse&logoColor=white"> <img src="https://img.shields.io/badge/PyCharm-103e2e?style=for-the-badge&logo=pycharm&logoColor=white"> 
+<img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/vscode-1E90FF?style=for-the-badge&logo=vscode&logoColor=white"> <img src="https://img.shields.io/badge/Eclipse-000000?style=for-the-badge&logo=eclipse&logoColor=white"> <img src="https://img.shields.io/badge/PyCharm-103e2e?style=for-the-badge&logo=pycharm&logoColor=white"> 
   
 
 ### Quick Links &nbsp;&nbsp;
