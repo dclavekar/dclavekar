@@ -7,7 +7,7 @@ Learning something from each new day :star2:
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/dclavekar) 
 [<img src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white"/>](mailto:dclavekar@gmail.com) 
-[<img src="https://img.shields.io/badge/-Instagram-FFC0CB?style=for-the-badge&logo=Instagram&logoColor=white"/>](https://www.instagram.com/dclavekar/) 
+[<img src="https://img.shields.io/badge/-Instagram-C13584?style=for-the-badge&logo=Instagram&logoColor=white"/>](https://www.instagram.com/dclavekar/) 
  
 # Tech Stack  
   
