@@ -5,7 +5,7 @@ I am a Second year undergraduate from Pune Institute of Computer Technology purs
 Apart from learning technology, you can find me indulged in nature, dancing to the tunes of music, engulfed in some fictional world of books or narrating a story through my words.<br>
 Learning something from each new day :star2:
 <div align="center">
-### Quick Links &nbsp;&nbsp;
+    <h1>Quick Links</h1> &nbsp;&nbsp;
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/dclavekar) 
 [<img src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white"/>](mailto:dclavekar@gmail.com) 
