@@ -26,6 +26,7 @@ Learning something from each new day :star2:
 ### Deployment Platforms
 
 <img src="https://img.shields.io/badge/Heroku-000000?style=for-the-badge&logo=heroku&logoColor=white">  
+<img src="https://img.shields.io/badge/Netlify-103e2e?style=for-the-badge&logo=netlify&logoColor=white">  
 
 ### Other Tools
 
